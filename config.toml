@@ -142,3 +142,5 @@ disqusShortname = "yourdiscussshortname"
             name = "kontakt"
             weight = 5
             url = "/kontakt/"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
